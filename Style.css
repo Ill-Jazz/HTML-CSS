@@ -1,2 +1,8 @@
-body {background-color: rgb(105,105,105);}
+body {background-color: rgb(250, 191, 136);}
 h1 {color: orangered;}
+h2 {color: orangered;}
+h3 {color: orangered;}
+h4 {color: orangered;}
+h5 {color: orangered;}
+th {background-color: saddlebrown;}
+tr {background-color: peru;}
